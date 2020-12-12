@@ -8,5 +8,5 @@ how do:
 3) select scene
 4) hit play
 
-![alt text](https://imgur.com/3g9womR)
-![alt text](https://imgur.com/cjXtSa1)
+![alt text](https://i.imgur.com/3g9womR.png)
+![alt text](https://i.imgur.com/cjXtSa1.png)
